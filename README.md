@@ -1,12 +1,20 @@
 ![Banner](https://patronhubdevs.online/static/img/og-image.png)
 
-
 # 👋 Hi there, I'm **Marco Polo** — Founder of **PatronHub Devs**
 
 > 💻 Cybersecurity Enthusiast | 🧠 Python Developer | 🧩 Open Source Innovator  
 > Building secure, modern, and intelligent software solutions with a hacker’s precision ⚡
 
 ---
+
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=j3fcruz&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j3fcruz&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=j3fcruz&theme=radical)
+
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=j3fcruz&theme=react-dark&hide_border=true)
 
 ## 🚀 Featured Projects
 
@@ -93,13 +101,6 @@
 - 🪶 **Codeberg:** [NoteArmor Repository](https://codeberg.org/dariusmontelaro/NoteArmor)  
 - ☕ **Ko-fi:** [@marcopolo55681](https://ko-fi.com/marcopolo55681)  
 - 🌐 **Website:** [PatronHub Devs](https://patronhubdevs.online)
-
----
-
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=j3fcruz&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j3fcruz&layout=compact&theme=radical)
 
 ---
 
