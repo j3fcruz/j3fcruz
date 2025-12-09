@@ -31,7 +31,7 @@
 | 🤖 **CyberGuardian AI Defense & Monitoring** | AI-Powered Cybersecurity Assistant | Coming Soon | [GitHub](https://github.com/j3fcruz) \| [Ko-fi](https://ko-fi.com/marcopolo55681) |
 | 📹 **VidArmorX Video Downloader** | Professional Video Downloader | Coming Soon | [GitHub](https://github.com/j3fcruz) \| [Ko-fi](https://ko-fi.com/marcopolo55681) |
 | 💬 **Cheeka LAN Messenger** | Secure LAN Messaging Solution | Coming Soon | [GitHub](https://github.com/j3fcruz) \| [Ko-fi](https://ko-fi.com/marcopolo55681) |
-| 🔐 **TokenX TOTP/2FA Manager** | Secure Two-Factor Authentication Manager | Coming Soon | [GitHub](https://github.com/j3fcruz) \| [Ko-fi](https://ko-fi.com/marcopolo55681) |
+| 🔐 **TokenX TOTP/2FA Manager** | Secure Two-Factor Authentication Manager | Active | [GitHub](https://github.com/j3fcruz/TokenX) \| [Ko-fi](https://ko-fi.com/marcopolo55681) |
 
 ---
 
