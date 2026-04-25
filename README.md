@@ -41,9 +41,9 @@ Python • Flask • PyQt • Django • JavaScript • HTML • CSS • C / C++
 
 - 🐙 GitHub: [j3fcruz](https://github.com/j3fcruz)
 - ☕ Ko-fi: [Support](https://ko-fi.com/marcopolo55681)
-- 💬 Discord: Community Hub
-- 🦊 GitLab: PatronHub Devs
-- 🌐 Website: PatronHub Devs
+- 💬 Discord: [Community Hub](https://discord.gg/vuey8sfdG)
+- 🦊 GitLab: [PatronHub Devs](https://gitlab.com/jofreydelacruz13)
+- 🌐 Website: [PatronHub Devs](https://www.patronhubdevs.com)
 
 ---
 
